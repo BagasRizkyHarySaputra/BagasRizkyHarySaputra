@@ -12,6 +12,9 @@
 <a href="https://bagasrizkyharysaputra.vercel.app/#/writeups">
   <img alt="Writeups" src="https://img.shields.io/badge/WRITEUPS-4_notes-05060A?style=for-the-badge&labelColor=0b0d14&logo=hackmd&logoColor=7CC0FF" />
 </a>
+
+<br />
+
 <img alt="Focus" src="https://img.shields.io/badge/FOCUS-PWN_%C2%B7_VIBECODE_WEB-05060A?style=for-the-badge&labelColor=0b0d14&logo=hackthebox&logoColor=9EFFDC" />
 
 <br />
@@ -57,19 +60,6 @@ Most of what I know started from curiosity: taking something apart, breaking it 
 
 ---
 
-## // featured projects
-
-| Project | What it is | Built with |
-| --- | --- | --- |
-| 🚀 **[The Cosmic Journey](https://the-cosmic-journey.vercel.app/)** | Space-themed site (planets, missions, astronomy events) — a school project turned visual playground. | React |
-| 🛰️ **[Web Admin RFID](https://web-admin-gilt.vercel.app/)** | Attendance monitoring dashboard for an IoT project. | Next.js |
-| 🎓 **[Web Siswa](https://web-siswa-ten.vercel.app/)** | Student-facing companion app to Web Admin, with tighter data access. | Next.js |
-| 🔑 **[Vibein](https://vibein.work.gd/)** | Marketplace dashboard for API keys — auth, store, key management, tutorials, profile, settings. | React + Vite |
-| 📚 **[SIAPIN](https://github.com/BagasRizkyHarySaputra/SIAPIN)** | Digital tutoring platform for SNBT/TKA prep — 2,158 questions, university-chance estimates for 75 campuses, AI ability radar, leaderboard. Digital Innovation Competition entry. | Next.js · React · TypeScript · Tailwind · Prisma · SQLite |
-| 🕹️ **[MLBB on Waydroid](https://github.com/BagasRizkyHarySaputra/MLBB-waydroid-LinuxCloudMLBB)** | Scripts/configs to run Mobile Legends on Linux via Waydroid, with a Sunshine + Moonlight cloud-gaming mode. | Bash |
-
----
-
 ## 🏆 // trophy case
 
 <div align="center">
@@ -88,21 +78,6 @@ Most of what I know started from curiosity: taking something apart, breaking it 
 | 📜 | **Best Writeup** | **WRECKIT7.0 Junior CTF 2026** (BSSN) |
 
 </div>
-
----
-
-## // writeups
-
-CTF & pwn notes, mirrored from my HackMD notebooks into the portfolio's in-site reader:
-
-| Writeup | Focus |
-| --- | --- |
-| 🐚 **[Shellcoding](https://hackmd.io/@axLOw9-VSAqUknv1IORzog/B1qZyJ4-zl)** | Hand-rolled shellcode around an `fgets` blacklist — sysphone, execute, backdoor_anonymous, brainrot & pwnable.tw/start |
-| 💀 **[TryHackMe — PWN 101](https://hackmd.io/@axLOw9-VSAqUknv1IORzog/SyHMYv0gGe)** | Full room walkthrough: stack overflows → ret2win, format strings, integer bugs |
-| 🎯 **[ACECTF 2025](https://hackmd.io/@axLOw9-VSAqUknv1IORzog/rJ6Fl3dmGe)** | ACECTF 2025 binary exploitation set, dissected step by step |
-| 🏴 **[LKSN 2026 — PWN](https://hackmd.io/@axLOw9-VSAqUknv1IORzog/SkOyFJIIfe)** | another1 & another2 — GOT-overwrite arithmetic and canary/base leaks |
-
-<sub>📖 Read them all, fully rendered with images, at <a href="https://bagasrizkyharysaputra.vercel.app/#/writeups"><b>bagasrizkyharysaputra.vercel.app/#/writeups</b></a></sub>
 
 ---
 

@@ -12,7 +12,7 @@
 <a href="https://bagasrizkyharysaputra.vercel.app/#/writeups">
   <img alt="Writeups" src="https://img.shields.io/badge/WRITEUPS-4_notes-05060A?style=for-the-badge&labelColor=0b0d14&logo=hackmd&logoColor=7CC0FF" />
 </a>
-<img alt="Focus" src="https://img.shields.io/badge/FOCUS-PWN_%C2%B7_REV_%C2%B7_WEB-05060A?style=for-the-badge&labelColor=0b0d14&logo=hackthebox&logoColor=9EFFDC" />
+<img alt="Focus" src="https://img.shields.io/badge/FOCUS-PWN_%C2%B7_VIBECODE_WEB-05060A?style=for-the-badge&labelColor=0b0d14&logo=hackthebox&logoColor=9EFFDC" />
 
 <img src="assets/skull.png" alt="ASCII skull — the mascot from my portfolio's Home screen" width="340" />
 

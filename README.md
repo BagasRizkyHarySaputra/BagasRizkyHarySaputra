@@ -14,6 +14,9 @@
 </a>
 <img alt="Focus" src="https://img.shields.io/badge/FOCUS-PWN_%C2%B7_VIBECODE_WEB-05060A?style=for-the-badge&labelColor=0b0d14&logo=hackthebox&logoColor=9EFFDC" />
 
+<br />
+<br />
+
 <img src="assets/skull.png" alt="ASCII skull — the mascot from my portfolio's Home screen" width="340" />
 
 </div>

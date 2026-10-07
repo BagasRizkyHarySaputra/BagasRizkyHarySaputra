@@ -26,7 +26,7 @@ I'm a student who lives somewhere between **offensive security** and **building 
 
 Most of what I know started from curiosity: taking something apart, breaking it on purpose, and then rebuilding it cleaner. That loop is the whole game.
 
->  The portfolio is a **CRT/terminal themed** single-page app (Vue 3 + Vite) with a full writeup reader — and yes, it has a floating radial nav and a tracking-eyes ASCII skull. → **<https://bagasrizkyharysaputra.vercel.app>**
+> 🖥️ The portfolio is a **CRT/terminal themed** single-page app (Vue 3 + Vite) with a full writeup reader — and yes, it has a floating radial nav and a tracking-eyes ASCII skull. → **<https://bagasrizkyharysaputra.vercel.app>**
 
 ---
 
@@ -58,25 +58,31 @@ Most of what I know started from curiosity: taking something apart, breaking it 
 
 | Project | What it is | Built with |
 | --- | --- | --- |
-|  **[The Cosmic Journey](https://the-cosmic-journey.vercel.app/)** | Space-themed site (planets, missions, astronomy events) — a school project turned visual playground. | React |
-|  **[Web Admin RFID](https://web-admin-gilt.vercel.app/)** | Attendance monitoring dashboard for an IoT project. | Next.js |
-|  **[Web Siswa](https://web-siswa-ten.vercel.app/)** | Student-facing companion app to Web Admin, with tighter data access. | Next.js |
-|  **[Vibein](https://vibein.work.gd/)** | Marketplace dashboard for API keys — auth, store, key management, tutorials, profile, settings. | React + Vite |
-|  **[SIAPIN](https://github.com/BagasRizkyHarySaputra/SIAPIN)** | Digital tutoring platform for SNBT/TKA prep — 2,158 questions, university-chance estimates for 75 campuses, AI ability radar, leaderboard. Digital Innovation Competition entry. | Next.js · React · TypeScript · Tailwind · Prisma · SQLite |
-|  **[MLBB on Waydroid](https://github.com/BagasRizkyHarySaputra/MLBB-waydroid-LinuxCloudMLBB)** | Scripts/configs to run Mobile Legends on Linux via Waydroid, with a Sunshine + Moonlight cloud-gaming mode. | Bash |
+| 🚀 **[The Cosmic Journey](https://the-cosmic-journey.vercel.app/)** | Space-themed site (planets, missions, astronomy events) — a school project turned visual playground. | React |
+| 🛰️ **[Web Admin RFID](https://web-admin-gilt.vercel.app/)** | Attendance monitoring dashboard for an IoT project. | Next.js |
+| 🎓 **[Web Siswa](https://web-siswa-ten.vercel.app/)** | Student-facing companion app to Web Admin, with tighter data access. | Next.js |
+| 🔑 **[Vibein](https://vibein.work.gd/)** | Marketplace dashboard for API keys — auth, store, key management, tutorials, profile, settings. | React + Vite |
+| 📚 **[SIAPIN](https://github.com/BagasRizkyHarySaputra/SIAPIN)** | Digital tutoring platform for SNBT/TKA prep — 2,158 questions, university-chance estimates for 75 campuses, AI ability radar, leaderboard. Digital Innovation Competition entry. | Next.js · React · TypeScript · Tailwind · Prisma · SQLite |
+| 🕹️ **[MLBB on Waydroid](https://github.com/BagasRizkyHarySaputra/MLBB-waydroid-LinuxCloudMLBB)** | Scripts/configs to run Mobile Legends on Linux via Waydroid, with a Sunshine + Moonlight cloud-gaming mode. | Bash |
 
 ---
 
-## // trophy case
+## 🏆 // trophy case
 
 <div align="center">
 
-|  | Placement | Event |
+<img src="assets/trophy.gif" alt="Trophy case — CYBREAK 2026 1st Place, SCTF 2026 2nd, WRECKIT7.0 Junior CTF 2026 2nd + Best Writeup" width="900" />
+
+<br /><br />
+
+### 🥇 🥈 🥈 🏅 &nbsp;—&nbsp; **four podium finishes in 2026**
+
+| ⚔️ | Placement | Event |
 | :-: | --- | --- |
-|  | **1st Place** | **CYBREAK 2026** (ITS) |
-|  | **2nd Place** | **SCTF 2026** (DCSC) |
-|  | **2nd Place** | **WRECKIT7.0 Junior CTF 2026** |
-|  | **Best Writeup** | **WRECKIT7.0 Junior CTF 2026** (BSSN) |
+| 🥇 | **1st Place** | **CYBREAK 2026** (ITS) |
+| 🥈 | **2nd Place** | **SCTF 2026** (DCSC) |
+| 🥈 | **2nd Place** | **WRECKIT7.0 Junior CTF 2026** |
+| 📜 | **Best Writeup** | **WRECKIT7.0 Junior CTF 2026** (BSSN) |
 
 </div>
 
@@ -88,12 +94,12 @@ CTF & pwn notes, mirrored from my HackMD notebooks into the portfolio's in-site 
 
 | Writeup | Focus |
 | --- | --- |
-| **[Shellcoding](https://hackmd.io/@axLOw9-VSAqUknv1IORzog/B1qZyJ4-zl)** | Hand-rolled shellcode around an `fgets` blacklist — sysphone, execute, backdoor_anonymous, brainrot & pwnable.tw/start |
-| **[TryHackMe — PWN 101](https://hackmd.io/@axLOw9-VSAqUknv1IORzog/SyHMYv0gGe)** | Full room walkthrough: stack overflows → ret2win, format strings, integer bugs |
-| **[ACECTF 2025](https://hackmd.io/@axLOw9-VSAqUknv1IORzog/rJ6Fl3dmGe)** | ACECTF 2025 binary exploitation set, dissected step by step |
-| **[LKSN 2026 — PWN](https://hackmd.io/@axLOw9-VSAqUknv1IORzog/SkOyFJIIfe)** | another1 & another2 — GOT-overwrite arithmetic and canary/base leaks |
+| 🐚 **[Shellcoding](https://hackmd.io/@axLOw9-VSAqUknv1IORzog/B1qZyJ4-zl)** | Hand-rolled shellcode around an `fgets` blacklist — sysphone, execute, backdoor_anonymous, brainrot & pwnable.tw/start |
+| 💀 **[TryHackMe — PWN 101](https://hackmd.io/@axLOw9-VSAqUknv1IORzog/SyHMYv0gGe)** | Full room walkthrough: stack overflows → ret2win, format strings, integer bugs |
+| 🎯 **[ACECTF 2025](https://hackmd.io/@axLOw9-VSAqUknv1IORzog/rJ6Fl3dmGe)** | ACECTF 2025 binary exploitation set, dissected step by step |
+| 🏴 **[LKSN 2026 — PWN](https://hackmd.io/@axLOw9-VSAqUknv1IORzog/SkOyFJIIfe)** | another1 & another2 — GOT-overwrite arithmetic and canary/base leaks |
 
-<sub> Read them all, fully rendered with images, at <a href="https://bagasrizkyharysaputra.vercel.app/#/writeups"><b>bagasrizkyharysaputra.vercel.app/#/writeups</b></a></sub>
+<sub>📖 Read them all, fully rendered with images, at <a href="https://bagasrizkyharysaputra.vercel.app/#/writeups"><b>bagasrizkyharysaputra.vercel.app/#/writeups</b></a></sub>
 
 ---
 

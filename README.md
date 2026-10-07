@@ -122,6 +122,7 @@ CTF & pwn notes, mirrored from my HackMD notebooks into the portfolio's in-site 
 
 <a href="https://bagasrizkyharysaputra.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-05060A?style=for-the-badge&logo=vercel&logoColor=7CC0FF" /></a>
 <a href="https://github.com/BagasRizkyHarySaputra"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-05060A?style=for-the-badge&logo=github&logoColor=E9F4FF" /></a>
+<a href="https://www.instagram.com/bagasrizky.hss/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-05060A?style=for-the-badge&logo=instagram&logoColor=FF8BC7" /></a>
 <a href="https://hackmd.io/@axLOw9-VSAqUknv1IORzog"><img alt="HackMD" src="https://img.shields.io/badge/HackMD-05060A?style=for-the-badge&logo=hackmd&logoColor=7CC0FF" /></a>
 
 <sub>Discord <code>bagas7.</code> &nbsp;·&nbsp; open to CTF teams, collabs, and a good challenge.</sub>
